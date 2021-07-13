@@ -180,9 +180,9 @@ footer {
     .logo img {
         display: none;
     }
-    .main-logo {
-        width:300px;
-        height: 300px;
+    .main-logo img {
+        max-width:100%;
+        max-height:100%;
         
         }
 }
